@@ -35,7 +35,22 @@ When assessing school summaries and performing schools, the score replacements d
 
 Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact.
 
+#### School Spending Summary
+<img src= "https://github.com/remilekunajisebutu/School_District_Analysis/blob/main/Images/School%20Spending%20Summary.png" width="425"/>
+
+When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. However, this data change did impact the spending ranges for passing percentages. According to the summary above, there was a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.
+
+#### School Size Summary
+<img src= "https://github.com/remilekunajisebutu/School_District_Analysis/blob/main/Images/School%20Size%20Summary.png" width="425"/>
 
 
+When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1,000-2,000). In this category, % passing math, % passing reading, and % overall passing dropped 6% each. Before the data change, the School Size summary showed that medium-sized school had a high performance (91% overall passing) compared to small (90% overall passing) and large schools (58% overall passing). Given the data change, medium size school are the second in performance (85% overall passing).
 
-## Summary
+#### School Type Summary
+
+<img src= "https://github.com/remilekunajisebutu/School_District_Analysis/blob/main/Images/School%20Type%20Summary.png" width="425"/>
+
+
+In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.
+
+
